@@ -27,12 +27,18 @@ h1{
     padding: 20px;
 }
 .bigB{
+    display: inline-block;
+    float: left; 
+    margin: 15px 4px 2px 0;
     color: #86a168;
     font-size: 60px;
+
 
 }
 .foto-s{
     width: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
 .gallery{
     display: flex;
